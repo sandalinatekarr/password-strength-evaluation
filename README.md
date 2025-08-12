@@ -43,7 +43,7 @@ Understand the characteristics of a strong password and evaluate password streng
 | `apple123`       | ![apple123](apple123.png) |
 | `Apple1234`      | ![Apple1234](Apple1234.png) |
 | `ApPlE!23`       | ![ApPlE!23](ApPlE!23.png) |
-| `A#7kL2@9zM`     | ![A#7kL2@9zM](A#7kL2@9zM.png) |
+| `A#7kL2@9zM`     | ![A#7kL2@9zM](A%237kL2%409zM.png) |
 | `M$5qR1x@8YhP`   | ![M$5qR1x@8YhP](M$5qR1x@8YhP.png) |
 
 ---
